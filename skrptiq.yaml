@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "29d64ce4-97f2-4699-ab50-a00b01f365c4"
+id: "8cce5793-06c7-433e-bde8-a4b7082adb1b"
 name: "adapt-tone"
 display_name: "Adapt Tone"
 description: "Rewrites text to match a specified tone whilst preserving meaning"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
