@@ -3,7 +3,7 @@ id: "8cce5793-06c7-433e-bde8-a4b7082adb1b"
 name: "adapt-tone"
 display_name: "Adapt Tone"
 description: "Rewrites text to match a specified tone whilst preserving meaning"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "prompt"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 1
